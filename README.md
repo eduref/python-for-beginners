@@ -28,13 +28,14 @@ Weitere Dokumente: https://drive.google.com/drive/u/2/folders/13oj42vl8xH2ZWuOHP
   - benötigt evtl weitere Extensions für die Jupyter Notebook Integration
 - Jupyter Notebook
   - integriert in VSCode werden wir in Notebooks programmieren
-  - Miniconda für Package Management
   - für die erste Installation von Python & Jupyter Notebook benötigt
 - Git for Windows
   - zum Aktualisieren der Aufgaben-Notebooks, die in GitHub liegen (per Pull-Befehl) um sie lokal auf jedem Rechner zu haben
   - Nützlich um Code zurücksetzen (nach Bearbeitung durch Teilnehmer)
 - Firefox
   - von nun an standardmäßiger Browser auf allen Laptops
+- MiniConda
+-   für Package Management
 
 
 
