@@ -19,6 +19,7 @@ Weitere Dokumente: https://drive.google.com/drive/u/2/folders/13oj42vl8xH2ZWuOHP
 - Aufgaben nummerieren
 - in var_datatype:
   - Fotos in Aufgabe 5 horizontal richtig anzeigen lassen
+- Aufgabenset ohne Lösungen erstellen
 
 
 ### Genutzte Software
