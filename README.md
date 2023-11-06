@@ -25,7 +25,7 @@
 Weitere Dokumente: https://drive.google.com/drive/u/2/folders/13oj42vl8xH2ZWuOHPRhhJcB-pgrwrc8i
 
 ## Kursstruktur
-- ein Jupyter Notebook pro Kapitel
+- ein Jupyter Notebook & Foliensatz pro Kapitel
 - Notebooks bestehen aus Aufgaben-, Erklär- und Zusatzaufgabenblocks
 - Erklärblocks...
   - beinhalten eine Erklärung des vorher neu eingeführten Themas in 1-2 Sätzen...
