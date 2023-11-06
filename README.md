@@ -1,3 +1,26 @@
+#### Next Steps & TODOs
+- Aufgaben auf Deutsch übersetzen
+- Kapitel 4: Variablen & Datentypen
+  - `Karl`: Aufgaben fertig machen, grobe inhaltliche Struktur entwerfen
+- Kapitel 7: Booleans & Boolsche Operatoren
+  - `Patricia`: Aufgaben fertig machen, grobe inhaltliche Struktur entwerfen
+- Kapitel 5 & 6: Input-Funktion & Arithmetische Operationen
+  - `Vinzenz`: Aufgaben fertig machen, grobe inhaltliche Struktur entwerfen
+
+- Folien
+  - `Vinzenz`: Masterfoliensatz erstellen
+    - Einheitliche Schriftarten
+    - Kapitelüberschriftsfolie
+    - Startfolie
+    - Inhaltsfolie
+    - fesches Design
+  - `Arved`: Beispiel-Kapitel mit Masterfoliensatz erstellen
+- Notebook
+  - `Arved`: Beispiel-Notebook erstellen
+    - Leitfaden für Inhalt & Struktur der Erklär-, Aufgaben-, Zusatzaufgabenblocks
+    - mit & ohne Lösung
+  
+
 # python-for-beginners
 Weitere Dokumente: https://drive.google.com/drive/u/2/folders/13oj42vl8xH2ZWuOHPRhhJcB-pgrwrc8i
 
@@ -78,16 +101,11 @@ Weitere Dokumente: https://drive.google.com/drive/u/2/folders/13oj42vl8xH2ZWuOHP
    1. matplotlib, pandas
    2. Hangman, Nummern raten, Tic Tac Toe, Schere Stein Papier
 
-
-
-
-## TODOs
-- Aufgaben auf Deutsch übersetzen
-- Aufgaben nummerieren
-- in var_datatype:
-  - Fotos in Aufgabe 5 horizontal richtig anzeigen lassen
-- Aufgabenset ohne Lösungen erstellen
-
+## Folien
+- in PowerPoint
+- am Anfang jedes Kapitels eine Folie mit Tipps & grober Übersicht für Personen, die Kurs halten
+- Ausführliche Motivation, Erklärung & Code-Beispiele der Themen
+- Code Beispiele aus Erklärblocks als Screenshots
 
 ## Genutzte Software
 - Visual Studio Code
