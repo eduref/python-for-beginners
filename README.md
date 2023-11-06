@@ -3,12 +3,14 @@ Weitere Dokumente: https://drive.google.com/drive/u/2/folders/13oj42vl8xH2ZWuOHP
 
 ### Kursstruktur
 1. Einführung in Python
-2. Einführung in IDEs
+   1. Naming conventions
+   2. Indentation
+2. Einführung in IDEs & Jupyter Notebook
    1. Was sind IDEs?
-   2. Live Demo
+   2. Wie funktionieren Zellen?
+   3. Live Demo
       1. Wie führe ich Code aus?
-      2. Wie funktioniert ein Jupyter Notebook
-      3. Wie öffne ich Code-Dateien
+      2. Wie öffne ich Code-Dateien
 3. `print`-Befehl
 4. Datentypen + Variablen
    1. String-Konkatenation
