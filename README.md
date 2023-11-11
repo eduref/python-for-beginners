@@ -1,30 +1,31 @@
 #### Next Steps & TODOs
+
 - Aufgaben auf Deutsch übersetzen
+- Vorlage Google Form mit Umfrage zur Schwierigkeit eines Kapitels erstellen
+
+
 - Kapitel 4: Variablen & Datentypen
-  - `Karl`: Aufgaben fertig machen, grobe inhaltliche Struktur entwerfen
+  - `Karl`: Aufgaben erstellen, Folien entwerfen
 - Kapitel 7: Booleans & Boolsche Operatoren
-  - `Patricia`: Aufgaben fertig machen, grobe inhaltliche Struktur entwerfen
+  - `Patricia`: Aufgaben erstellen, Folien entwerfen
 - Kapitel 5 & 6: Input-Funktion & Arithmetische Operationen
-  - `Vinzenz`: Aufgaben fertig machen, grobe inhaltliche Struktur entwerfen
+  - `Vinzenz`: Folien erstellen
+- Kapitel 8: if-else
+  - `Vinzenz`: Aufgaben erstellen, Folien entwerfen
+- Kapitel Listen
+  - `Arved`: Aufgebe + Folien zu Verschachtelte Listen hinzufügen
 
 - Folien
-  - `Vinzenz`: Masterfoliensatz erstellen
-    - Einheitliche Schriftarten
-    - Kapitelüberschriftsfolie
-    - Startfolie
-    - Inhaltsfolie
-    - fesches Design
-  - `Arved`: Beispiel-Kapitel mit Masterfoliensatz erstellen
+  - `Vinzenz`: Styling für Referenzblock in Folien für TN, jetzt mit der Aufgabe anzufangen 
 - Notebook
-  - `Arved`: Beispiel-Notebook erstellen
-    - Leitfaden für Inhalt & Struktur der Erklär-, Aufgaben-, Zusatzaufgabenblocks
-    - mit & ohne Lösung
+  - `Patricia`: Template für finale Zelle des Notebooks mit Link zu Abstimmung über Schwierigkeit des Kapitels zum Beispielnotebook (listen) hinzufügen
   
+#### Leitfade
 
 # python-for-beginners
 Weitere Dokumente: https://drive.google.com/drive/u/2/folders/13oj42vl8xH2ZWuOHPRhhJcB-pgrwrc8i
 
-## Kursstruktur
+## Notebooks
 - ein Jupyter Notebook & Foliensatz pro Kapitel
 - Notebooks bestehen aus Aufgaben-, Erklär- und Zusatzaufgabenblocks
 - Erklärblocks...
@@ -40,6 +41,7 @@ Weitere Dokumente: https://drive.google.com/drive/u/2/folders/13oj42vl8xH2ZWuOHP
 - Zusatzaufgabenblöcke...
   - beinhalten mindestens eine weitere Aufgabe pro im Notebook behandelter Aufgaben
   - stehen am Ende des Notebooks
+- Finaler Zellblock vor Zusatzaufgaben besteht aus Link zu Google Form mit Umfrage zur Schwierigkeit des Kurses
 
 ## Kursinhalt
 #### 1. Einführung in Python
