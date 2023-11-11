@@ -1,5 +1,10 @@
-#### Next Steps & TODOs
+### <span style="background-color:yellow">Leitfaden Aufgaben Bearbeiten</span>
+- Einen Branch pro Aufgabe (zB Erstelle Kapitel xy, Korrigiere alle Rechtschreibfehler in den Kapiteln)
+- Naming convention branches: origin/aufgabeOderKapitel
+- Folien auf Google Drive in eduref-ws-23/python/kursfolien hochladen
+- **Bitte an den Folien und dem Notebook zu _Kapitel 9: Listen_ orientieren** 
 
+### <span style="background-color:yellow"> Next Steps & TODOs </span>
 - Aufgaben auf Deutsch übersetzen
 - Vorlage Google Form mit Umfrage zur Schwierigkeit eines Kapitels erstellen
 
@@ -19,12 +24,6 @@
   - `Vinzenz`: Styling für Referenzblock in Folien für TN, jetzt mit der Aufgabe anzufangen 
 - Notebook
   - `Patricia`: Template für finale Zelle des Notebooks mit Link zu Abstimmung über Schwierigkeit des Kapitels zum Beispielnotebook (listen) hinzufügen
-  
-#### Leitfaden Aufgaben Bearbeiten
-- Einen Branch pro Aufgabe (zB Erstelle Kapitel xy, Korrigiere alle Rechtschreibfehler in den Kapiteln)
-- Naming convention branches: origin/aufgabeOderKapitel
-- Folien auf Google Drive in eduref-ws-23/python/kursfolien hochladen
-
 
 # python-for-beginners
 Weitere Dokumente: Google Drive -> Geteilte Ablage/EduRef WS23/python
