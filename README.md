@@ -27,7 +27,7 @@
 
 
 # python-for-beginners
-Weitere Dokumente: https://drive.google.com/drive/u/2/folders/13oj42vl8xH2ZWuOHPRhhJcB-pgrwrc8i
+Weitere Dokumente: Google Drive -> Geteilte Ablage/EduRef WS23/python
 
 ## Notebooks
 - ein Jupyter Notebook & Foliensatz pro Kapitel
