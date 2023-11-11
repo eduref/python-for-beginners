@@ -20,7 +20,11 @@
 - Notebook
   - `Patricia`: Template für finale Zelle des Notebooks mit Link zu Abstimmung über Schwierigkeit des Kapitels zum Beispielnotebook (listen) hinzufügen
   
-#### Leitfade
+#### Leitfaden Aufgaben Bearbeiten
+- Einen Branch pro Aufgabe (zB Erstelle Kapitel xy, Korrigiere alle Rechtschreibfehler in den Kapiteln)
+- Naming convention branches: origin/aufgabeOderKapitel
+- Folien auf Google Drive in eduref-ws-23/python/kursfolien hochladen
+
 
 # python-for-beginners
 Weitere Dokumente: https://drive.google.com/drive/u/2/folders/13oj42vl8xH2ZWuOHPRhhJcB-pgrwrc8i
