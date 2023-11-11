@@ -56,7 +56,7 @@ Weitere Dokumente: Google Drive -> Geteilte Ablage/EduRef WS23/python
    3. Live Demo
       1. Wie führe ich Code aus?
       2. Wie öffne ich Code-Dateien
-#### 3. `print`-Befehl
+#### 3. `print`-Befehl & String-Konkatenation
 #### 4. Datentypen + Variablen
    1. String-Konkatenation
    2. Probleme bei Addition von Zahlen als Strings
