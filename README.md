@@ -18,14 +18,9 @@
 - Kapitel 8: if-else
   - `Vinzenz`: Aufgaben erstellen, Folien entwerfen
 - Kapitel Schleifen
-  - `Arved`: Aufgaben + Folien zu Verschachtelte Listen hinzufügen
+  - `Arved`: Aufgaben + Folien hinzufügen
 - Kapitel Funktionen
-  - `Karl`: Aufgaben + Folien zu Verschachtelte Listen hinzufügen
-
-- Folien
-  - `Vinzenz`: Styling für Referenzblock in Folien für TN, jetzt mit der Aufgabe anzufangen 
-- Notebook
-  - `Patricia`: Template für finale Zelle des Notebooks mit Link zu Abstimmung über Schwierigkeit des Kapitels zum Beispielnotebook (listen) hinzufügen
+  - `Karl`: Aufgaben + Folien hinzufügen
 
 # python-for-beginners
 Weitere Dokumente: Google Drive -> Geteilte Ablage/EduRef WS23/python
