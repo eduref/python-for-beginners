@@ -17,8 +17,10 @@
   - `Vinzenz`: Folien erstellen
 - Kapitel 8: if-else
   - `Vinzenz`: Aufgaben erstellen, Folien entwerfen
-- Kapitel Listen
-  - `Arved`: Aufgebe + Folien zu Verschachtelte Listen hinzufügen
+- Kapitel Schleifen
+  - `Arved`: Aufgaben + Folien zu Verschachtelte Listen hinzufügen
+- Kapitel Funktionen
+  - `Karl`: Aufgaben + Folien zu Verschachtelte Listen hinzufügen
 
 - Folien
   - `Vinzenz`: Styling für Referenzblock in Folien für TN, jetzt mit der Aufgabe anzufangen 
