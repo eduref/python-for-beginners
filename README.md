@@ -17,6 +17,8 @@
   - `Vinzenz`: Folien erstellen
 - Kapitel 8: if-else
   - `Vinzenz`: Aufgaben erstellen, Folien entwerfen
+- Kapitel 10: Dictionaries
+  - `Nico`: Aufgaben + Folien hinzufügen
 - Kapitel Schleifen
   - `Arved`: Aufgaben + Folien hinzufügen
 - Kapitel Funktionen
