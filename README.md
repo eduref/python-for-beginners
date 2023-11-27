@@ -19,9 +19,9 @@
   - `Vinzenz`: Aufgaben erstellen, Folien entwerfen
 - Kapitel 10: Dictionaries
   - `Nico`: Aufgaben + Folien hinzufügen
-- Kapitel Schleifen
+- Kapitel 11: Schleifen
   - `Arved`: Aufgaben + Folien hinzufügen
-- Kapitel Funktionen
+- Kapitel 3: print
   - `Karl`: Aufgaben + Folien hinzufügen
 
 # python-for-beginners
@@ -58,9 +58,8 @@ Weitere Dokumente: Google Drive -> Geteilte Ablage/EduRef WS23/python
 #### 3. `print`-Befehl & String-Konkatenation
 #### 4. Datentypen + Variablen
    1. String-Konkatenation
-   2. Probleme bei Addition von Zahlen als Strings
-   3. Datentypen `int, float` 
-   4. `int(), float(), str()`-Methoden
+   2. Datentypen `int, float` 
+   3. `int(), float(), str()`-Methoden
 #### 5. Input-Funktion
 #### 6. Arithmetische Operationen
    1. Addition
