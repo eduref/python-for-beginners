@@ -9,8 +9,6 @@
 - Vorlage Google Form mit Umfrage zur Schwierigkeit eines Kapitels erstellen
 
 
-- Kapitel 4: Variablen & Datentypen
-  - `Karl`: Aufgaben erstellen, Folien entwerfen
 - Kapitel 7: Booleans & Boolsche Operatoren
   - `Patricia`: Aufgaben erstellen, Folien entwerfen
 - Kapitel 5 & 6: Input-Funktion & Arithmetische Operationen
