@@ -54,38 +54,33 @@ class SnakeGame:
 
     # Solution to excercise "Snake"
     def move_snake(self):
-        global snake_food  # Declare snake_food as global at the beginning
-
-        if snake_direction is None:
-            return True  # Skip moving the snake if no direction is set
-
-        # Calculate new head position
+         # Calculate new head position based on the current direction
         head_x, head_y = self.snake_position[0]
-        if snake_direction == 'Left':
+        if self.snake_direction == 'Left':
             head_x -= 20
-        elif snake_direction == 'Right':
+        elif self.snake_direction == 'Right':
             head_x += 20
-        elif snake_direction == 'Up':
+        elif self.snake_direction == 'Up':
             head_y -= 20
-        elif snake_direction == 'Down':
+        elif self.snake_direction == 'Down':
             head_y += 20
 
         new_head = [head_x, head_y]
 
-        # Check for game over conditions
+        # Check for collisions
         if new_head in self.snake_position or head_x < 0 or head_x >= 600 or head_y < 0 or head_y >= 400:
-            return False  # Game over
+            return False  # Game over condition
 
-        # Move snake
+        # Update snake position
         self.snake_position.insert(0, new_head)
 
         # Check for food collision
-        if new_head == snake_food:
-            snake_food = [random.randint(0, 29)*20, random.randint(0, 19)*20]  # New food position
+        if new_head == self.snake_food:
+            self.snake_food = [random.randint(0, 29) * 20, random.randint(0, 19) * 20]
         else:
-            self.snake_position.pop()  # Remove tail segment
+            self.snake_position.pop()  # Remove tail segment if no food is eaten
 
-        return True  # Continue game
+        return True
 
     def change_direction(self, new_direction):
         if self.snake_direction is None or new_direction in ['Left', 'Right', 'Up', 'Down']:
