@@ -5,7 +5,18 @@
 4. **Game Over:** The game ends when the snake collides with the screen boundary or itself.
 
 
+snake_game/
+│
+├── src/
+│   ├── __init__.py
+│   └── game_logic.py
+│
+└── play.py
 
 Importing from Packages: Explain how the from snake_game.snake_game import SnakeGame line in play_snake.py imports the SnakeGame class from our snake_game.py file within the snake_game package.
 __name__ == "__main__": Clarify that this condition is used to run the code in play_snake.py only when it is executed as the main program, not when it is imported as a module in another file.
 File and Folder Names: Make sure the names of files and folders are exactly as specified, as Python is case-sensitive and relies on correct naming for imports.
+
+Running the Game: To play the game, the participants will need to run play_snake.py. This can be done through a Python interpreter or a command line interface by navigating to the directory containing play.py and executing:
+
+```python play.py```

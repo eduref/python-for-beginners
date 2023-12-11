@@ -88,9 +88,8 @@ class SnakeGame:
         return True  # Continue game
 
     def change_direction(self, new_direction):
-        global snake_direction
-        if snake_direction is None or new_direction in ['Left', 'Right', 'Up', 'Down']:
-            snake_direction = new_direction
+        if self.snake_direction is None or new_direction in ['Left', 'Right', 'Up', 'Down']:
+            self.snake_direction = new_direction
 
     def start_game(self):
         self.game_loop()
