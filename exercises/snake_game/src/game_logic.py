@@ -54,7 +54,10 @@ class SnakeGame:
 
     # Solution to excercise "Snake"
     def move_snake(self):
-         # Calculate new head position based on the current direction
+        if self.snake_direction is None:
+            return True  # Skip moving the snake if no direction is set
+
+        # Calculate new head position
         head_x, head_y = self.snake_position[0]
         if self.snake_direction == 'Left':
             head_x -= 20
@@ -67,20 +70,20 @@ class SnakeGame:
 
         new_head = [head_x, head_y]
 
-        # Check for collisions
+        # Check for game over conditions
         if new_head in self.snake_position or head_x < 0 or head_x >= 600 or head_y < 0 or head_y >= 400:
-            return False  # Game over condition
+            return False  # Game over
 
-        # Update snake position
+        # Move snake
         self.snake_position.insert(0, new_head)
 
         # Check for food collision
         if new_head == self.snake_food:
-            self.snake_food = [random.randint(0, 29) * 20, random.randint(0, 19) * 20]
+            self.snake_food = [random.randint(0, 29)*20, random.randint(0, 19)*20]  # New food position
         else:
-            self.snake_position.pop()  # Remove tail segment if no food is eaten
+            self.snake_position.pop()  # Remove tail segment
 
-        return True
+        return True  # Continue game
 
     def change_direction(self, new_direction):
         if self.snake_direction is None or new_direction in ['Left', 'Right', 'Up', 'Down']:
