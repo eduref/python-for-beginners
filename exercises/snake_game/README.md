@@ -11,6 +11,7 @@ Now, it is your time to show off, what you have learned so far, by implementing 
 
 ## Project Structure
 
+```
 snake_game/
 │
 ├── src/
@@ -18,6 +19,7 @@ snake_game/
 │   └── game_logic.py
 │
 └── play.py
+```
 
 ## Getting Started
 
