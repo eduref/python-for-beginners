@@ -2,25 +2,14 @@
 - Einen Branch pro Aufgabe (zB Erstelle Kapitel xy, Korrigiere alle Rechtschreibfehler in den Kapiteln)
 - Naming convention branches: origin/aufgabeOderKapitel
 - Folien auf Google Drive in eduref-ws-23/python/kursfolien hochladen
+- Je Aufgabe eine zusätzliche Bonus-Aufgabe (außer Kap. 13)
+- Code: Kapitelüberschrift im Code H1, Aufgabenüberschrift in H2
+- Code: Jeweils ein Block für: kurze Erklärung vor der Aufgabe (markdown), Aufgabenstellung (markdown), Zelle für Aufgabenbearbeitung (pyhton)
 - **Bitte an den Folien und dem Notebook zu _Kapitel 9: Listen_ orientieren** 
 
 ### Next Steps & TODOs
 - Aufgaben auf Deutsch übersetzen
 - Vorlage Google Form mit Umfrage zur Schwierigkeit eines Kapitels erstellen
-
-
-- Kapitel 7: Booleans & Boolsche Operatoren
-  - `Patricia`: Aufgaben erstellen, Folien entwerfen
-- Kapitel 5 & 6: Input-Funktion & Arithmetische Operationen
-  - `Vinzenz`: Folien erstellen
-- Kapitel 8: if-else
-  - `Vinzenz`: Aufgaben erstellen, Folien entwerfen
-- Kapitel 10: Dictionaries
-  - `Nico`: Aufgaben + Folien hinzufügen
-- Kapitel 11: Schleifen
-  - `Arved`: Aufgaben + Folien hinzufügen
-- Kapitel 3: print
-  - `Karl`: Aufgaben + Folien hinzufügen
 
 # python-for-beginners
 Weitere Dokumente: Google Drive -> Geteilte Ablage/EduRef WS23/python
