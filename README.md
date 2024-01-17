@@ -5,6 +5,7 @@
 - Je Aufgabe eine zusätzliche Bonus-Aufgabe (außer Kap. 13)
 - Code: Kapitelüberschrift im Code H1, Aufgabenüberschrift in H2
 - Code: Jeweils ein Block für: kurze Erklärung vor der Aufgabe (markdown), Aufgabenstellung (markdown), Zelle für Aufgabenbearbeitung mit Lösung (pyhton)
+- Folien: am Ende des Kapitels Feedback QR-Code (im Drive bei Folien ohne Lösung)
 - **Bitte an den Folien und dem Notebook zu _Kapitel 9: Listen_ orientieren** 
 
 ### Next Steps & TODOs
