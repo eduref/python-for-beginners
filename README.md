@@ -4,7 +4,7 @@
 - Folien auf Google Drive in eduref-ws-23/python/kursfolien hochladen
 - Je Aufgabe eine zusätzliche Bonus-Aufgabe (außer Kap. 13)
 - Code: Kapitelüberschrift im Code H1, Aufgabenüberschrift in H2
-- Code: Jeweils ein Block für: kurze Erklärung vor der Aufgabe (markdown), Aufgabenstellung (markdown), Zelle für Aufgabenbearbeitung (pyhton)
+- Code: Jeweils ein Block für: kurze Erklärung vor der Aufgabe (markdown), Aufgabenstellung (markdown), Zelle für Aufgabenbearbeitung mit Lösung (pyhton)
 - **Bitte an den Folien und dem Notebook zu _Kapitel 9: Listen_ orientieren** 
 
 ### Next Steps & TODOs
