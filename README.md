@@ -31,7 +31,7 @@ Weitere Dokumente: Google Drive -> Geteilte Ablage/EduRef WS23/python
 - Zusatzaufgabenblöcke...
   - beinhalten mindestens eine weitere Aufgabe pro im Notebook behandelter Aufgaben
   - stehen am Ende des Notebooks
-- Finaler Zellblock vor Zusatzaufgaben besteht aus Link zu Google Form mit Umfrage zur Schwierigkeit des Kurses
+- Finaler Zellblock vor Zusatzaufgaben besteht aus QR Code zu Google Form mit Umfrage zur Schwierigkeit des Kurses
 
 ## Kursinhalt
 #### 1. Einführung in Python
@@ -97,6 +97,7 @@ Weitere Dokumente: Google Drive -> Geteilte Ablage/EduRef WS23/python
 - am Anfang jedes Kapitels eine Folie mit Tipps & grober Übersicht für Personen, die Kurs halten
 - Ausführliche Motivation, Erklärung & Code-Beispiele der Themen
 - Code Beispiele aus Erklärblocks als Screenshots
+- Am Ende des Kapitels: Hinweis auf QR Code im Notebook (bitte mit Handy scannen) & QR Code selbst
 
 ## Genutzte Software
 - Visual Studio Code
