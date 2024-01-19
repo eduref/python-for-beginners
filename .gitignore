@@ -5,3 +5,5 @@
 .DS_Store?
 .venv
 .pyc
+
+filtered_exercises
