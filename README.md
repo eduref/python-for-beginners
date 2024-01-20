@@ -112,6 +112,9 @@ Weitere Dokumente: Google Drive -> Geteilte Ablage/EduRef WS23/python
   - von nun an standardmäßiger Browser auf allen Laptops
 - MiniConda
   - für Package Management
+- VSCode-Verknüpfung auf Desktop
+  - heißt <i>Python-Course</i>
+  - führt direkt zu den Notebooks ohne Lösungen in VSCode 
 
 
 
