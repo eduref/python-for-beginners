@@ -97,7 +97,7 @@ Weitere Dokumente: Google Drive -> Geteilte Ablage/EduRef WS23/python
 - Code Beispiele aus Erklärblocks als Screenshots
 - Am Ende des Kapitels: Hinweis auf QR Code im Notebook (bitte mit Handy scannen) & QR Code selbst
 
-## Genutzte Software
+## Genutzte Software: 3xx-Laptops (Windows)
 - Visual Studio Code
   - die im Kurs genutzte IDE
   - benötigt evtl weitere Extensions für die Jupyter Notebook Integration
@@ -114,6 +114,24 @@ Weitere Dokumente: Google Drive -> Geteilte Ablage/EduRef WS23/python
 - VSCode-Verknüpfung auf Desktop
   - heißt <i>Python-Course</i>
   - führt direkt zu den Notebooks ohne Lösungen in VSCode 
+
+## Genutzte Software: 4xx-Laptops (Ubuntu)
+- Visual Studio Code
+- git
+  - sudo apt install git
+- miniconda
+  - von Website per Terminal installieren
+  - beinhaltet Python 3.x
+- ipykernel
+  - installation mit miniconda: conda install ipykernel
+- python-for-beginners-Ordner
+  - auf Desktop klonen mit git clone https://github.com/eduref/python-for-beginners
+- VS Code Verknüpfung
+  - in Seitenleiste ziehen
+  - öffnet automatisch zuletzt geöffneten Ordner -> python-for-beginners/exercises vor neuem Kurs öffnen
+- Jupyter Notebook
+  - in VS Code mit PopUp installieren
+### Installation
 
 
 
