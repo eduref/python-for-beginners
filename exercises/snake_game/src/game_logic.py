@@ -56,12 +56,21 @@ class SnakeGame:
 
 #----------Do Not edit the code above--------------------Do Not edit the code above--------------------Do Not edit the code above----------#
 
+    # Task 1
+    def move_snake(self):
+        # Write your code after this line
+        pass
 
-    # Write your code after this line
 
 
+    # Task 2
+    def change_direction(self):
+        # Write your code after this line
+        pass
 
     # Solution to excercise "Snake"
+        
+    # Task 1
     def move_snake(self):
         if self.snake_direction is None:
             return True  # Skip moving the snake if no direction is set
@@ -94,6 +103,7 @@ class SnakeGame:
 
         return True  # Continue game
 
+    # Task 2
     def change_direction(self, new_direction):
         if self.snake_direction is None or new_direction in ['Left', 'Right', 'Up', 'Down']:
             self.snake_direction = new_direction
