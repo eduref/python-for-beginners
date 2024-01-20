@@ -5,4 +5,6 @@
 .DS_Store?
 .venv
 .pyc
-example-file.ipynb
+
+filtered_exercises
+
