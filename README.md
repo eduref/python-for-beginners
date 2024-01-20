@@ -111,7 +111,7 @@ Weitere Dokumente: Google Drive -> Geteilte Ablage/EduRef WS23/python
 - Firefox
   - von nun an standardmäßiger Browser auf allen Laptops
 - MiniConda
--   für Package Management
+  - für Package Management
 
 
 
