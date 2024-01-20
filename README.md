@@ -43,11 +43,10 @@ Weitere Dokumente: Google Drive -> Geteilte Ablage/EduRef WS23/python
    3. Live Demo
       1. Wie führe ich Code aus?
       2. Wie öffne ich Code-Dateien
-#### 3. `print`-Befehl
+#### 3. `print`-Befehl + STring Konkatenation
 #### 4. Datentypen + Variablen
-   1. String-Konkatenation
-   2. Datentypen `int, float` 
-   3. `int(), float(), str()`-Methoden
+   1. Datentypen `int, float` 
+   2. `int(), float(), str()`-Methoden
 #### 5. Input-Funktion
 #### 6. Arithmetische Operationen
    1. Addition
