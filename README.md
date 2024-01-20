@@ -10,7 +10,6 @@
 
 ### Next Steps & TODOs
 - Aufgaben auf Deutsch übersetzen
-- Vorlage Google Form mit Umfrage zur Schwierigkeit eines Kapitels erstellen
 
 # python-for-beginners
 Weitere Dokumente: Google Drive -> Geteilte Ablage/EduRef WS23/python
