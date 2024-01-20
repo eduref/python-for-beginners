@@ -1,3 +1,5 @@
+#----------Do Not edit the code below--------------------Do Not edit the code below--------------------Do Not edit the code below----------#
+
 import tkinter as tk
 import random
 
@@ -48,6 +50,13 @@ class SnakeGame:
         else:
             print("Game Over")
 
+    def start_game(self):
+        self.game_loop()
+        self.window.mainloop()
+
+#----------Do Not edit the code above--------------------Do Not edit the code above--------------------Do Not edit the code above----------#
+
+
     # Write your code after this line
 
 
@@ -88,7 +97,3 @@ class SnakeGame:
     def change_direction(self, new_direction):
         if self.snake_direction is None or new_direction in ['Left', 'Right', 'Up', 'Down']:
             self.snake_direction = new_direction
-
-    def start_game(self):
-        self.game_loop()
-        self.window.mainloop()
