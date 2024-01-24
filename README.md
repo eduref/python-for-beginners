@@ -118,14 +118,14 @@ Weitere Dokumente: Google Drive -> Geteilte Ablage/EduRef WS23/python
 ## Genutzte Software: 4xx-Laptops (Ubuntu)
 - Visual Studio Code
 - git
-  - sudo apt install git
+  - `sudo apt install git`
 - miniconda
   - von Website per Terminal installieren
   - beinhaltet Python 3.x
 - ipykernel
-  - installation mit miniconda: conda install ipykernel
+  - installation mit miniconda: `conda install ipykernel`
 - python-for-beginners-Ordner
-  - auf Desktop klonen mit git clone https://github.com/eduref/python-for-beginners
+  - auf Desktop klonen mit `git clone https://github.com/eduref/python-for-beginners`
 - VS Code Verknüpfung
   - in Seitenleiste ziehen
   - öffnet automatisch zuletzt geöffneten Ordner -> python-for-beginners/exercises vor neuem Kurs öffnen
