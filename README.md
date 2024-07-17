@@ -1,10 +1,11 @@
 ### Leitfaden Aufgaben Bearbeiten
 - Einen Branch pro Aufgabe (zB Erstelle Kapitel xy, Korrigiere alle Rechtschreibfehler in den Kapiteln)
 - Naming convention branches: origin/aufgabeOderKapitel
-- Folien auf Google Drive in eduref-ws-23/python/kursfolien hochladen
+- Folien auf Google Drive in allgemein/02_kurse/01_kursfolien/python hochladen
 - Je Aufgabe eine zusätzliche Bonus-Aufgabe (außer Kap. 13)
 - Code: Kapitelüberschrift im Code H1, Aufgabenüberschrift in H2
 - Code: Jeweils ein Block für: kurze Erklärung vor der Aufgabe (markdown), Aufgabenstellung (markdown), Zelle für Aufgabenbearbeitung mit Lösung (pyhton)
+- Code: Vor der Lösung ein `# Write your code below this line` schreiben, damit Lösungen per Script automatisch für Teilnehmende gelöscht werden können
 - Folien: am Ende des Kapitels Feedback QR-Code (im Drive bei Folien ohne Lösung)
 - **Bitte an den Folien und dem Notebook zu _Kapitel 9: Listen_ orientieren** 
 
