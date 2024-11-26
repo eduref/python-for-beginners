@@ -1,10 +1,11 @@
 ### Leitfaden Aufgaben Bearbeiten
 - Einen Branch pro Aufgabe (zB Erstelle Kapitel xy, Korrigiere alle Rechtschreibfehler in den Kapiteln)
 - Naming convention branches: origin/aufgabeOderKapitel
-- Folien auf Google Drive in eduref-ws-23/python/kursfolien hochladen
+- Folien auf Google Drive in allgemein/02_kurse/01_kursfolien/python hochladen
 - Je Aufgabe eine zusätzliche Bonus-Aufgabe (außer Kap. 13)
 - Code: Kapitelüberschrift im Code H1, Aufgabenüberschrift in H2
 - Code: Jeweils ein Block für: kurze Erklärung vor der Aufgabe (markdown), Aufgabenstellung (markdown), Zelle für Aufgabenbearbeitung mit Lösung (pyhton)
+- Code: Vor der Lösung ein `# Write your code below this line` schreiben, damit Lösungen per Script automatisch für Teilnehmende gelöscht werden können
 - Folien: am Ende des Kapitels Feedback QR-Code (im Drive bei Folien ohne Lösung)
 - **Bitte an den Folien und dem Notebook zu _Kapitel 9: Listen_ orientieren** 
 
@@ -97,7 +98,7 @@ Weitere Dokumente: Google Drive -> Geteilte Ablage/EduRef WS23/python
 - Code Beispiele aus Erklärblocks als Screenshots
 - Am Ende des Kapitels: Hinweis auf QR Code im Notebook (bitte mit Handy scannen) & QR Code selbst
 
-## Genutzte Software
+## Genutzte Software: 3xx-Laptops (Windows)
 - Visual Studio Code
   - die im Kurs genutzte IDE
   - benötigt evtl weitere Extensions für die Jupyter Notebook Integration
@@ -115,5 +116,22 @@ Weitere Dokumente: Google Drive -> Geteilte Ablage/EduRef WS23/python
   - heißt <i>Python-Course</i>
   - führt direkt zu den Notebooks ohne Lösungen in VSCode 
 
+## Genutzte Software: 4xx-Laptops (Ubuntu)
+- Visual Studio Code
+- git
+  - `sudo apt install git`
+- miniconda
+  - von Website per Terminal installieren
+  - beinhaltet Python 3.x
+- ipykernel
+  - installation mit miniconda: `conda install ipykernel`
+- python-for-beginners-Ordner
+  - auf Desktop klonen mit `git clone https://github.com/eduref/python-for-beginners`
+- VS Code Verknüpfung
+  - in Seitenleiste ziehen
+  - öffnet automatisch zuletzt geöffneten Ordner -> python-for-beginners/exercises vor neuem Kurs öffnen
+- Jupyter Notebook
+  - in VS Code mit PopUp installieren
 
+### Installation
 
