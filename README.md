@@ -9,7 +9,6 @@
 - **Bitte an den Folien und dem Notebook zu _Kapitel 9: Listen_ orientieren** 
 
 ### Next Steps & TODOs
-- Aufgaben auf Deutsch übersetzen
 
 # python-for-beginners
 Weitere Dokumente: Google Drive -> Geteilte Ablage/EduRef WS23/python
