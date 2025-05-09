@@ -8,7 +8,7 @@ onlyfiles_de = [f for f in listdir("./aufgaben") if isfile(join("./aufgaben", f)
 
 import re
 solution_marker = re.compile("#+ (add|write|type in) your (own )?code ((after|below) this line:?|here)")
-solution_marker_german = re.compile("#+ schreibe deinen code unter diese zeile")
+solution_marker_german = re.compile("#+ schreibe deinen code unter dieser? zeile")
 
 def filter_cell(cell, current_solution_marker):
     if cell["cell_type"] != "code":
